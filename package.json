@@ -1,0 +1,21 @@
+{
+	"name": "graphqlmiddleware",
+	"version": "1.0.0",
+	"description": "Handle GraphQL Middlewares with simplicity.",
+	"main": "./GraphQLMiddleware.js",
+	"scripts": {
+		"start": "node index"
+	},
+	"keywords": [
+		"graphql",
+		"GraphQL",
+		"middleware",
+		"apollo-server"
+	],
+	"author": {
+		"name": "Fouad Hanani",
+		"email": "info.fouadhanani@gmail.com"
+	},
+	"license": "MIT",
+	"repository": {}
+}
