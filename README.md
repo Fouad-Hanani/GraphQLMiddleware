@@ -1,4 +1,4 @@
-# GraphQLMiddleware
+# GraphQLMiddlewareHandler
 
 A much simpler handling of **GraphQL Middlewares**.
 
@@ -6,11 +6,11 @@ A much simpler handling of **GraphQL Middlewares**.
 
 ## via NPM
 
-`npm i graphqlmiddleware`
+`npm i graphql-middleware-handler`
 
 ## via Yarn
 
-`yarn add graphqlmiddleware`
+`yarn add graphql-middleware-handler`
 
 # Usage
 
@@ -26,7 +26,7 @@ resolverFunction
 : A function that is executed if `validationFunction` return `true`
 
 ```
-const graphqlmiddleware = require('graphqlmiddleware');
+const graphqlmiddleware = require('graphql-middleware-handler');
 
 const validationFunction = (context) => {...};
 const errorMessage = "...";

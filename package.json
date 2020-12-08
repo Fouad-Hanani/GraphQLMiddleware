@@ -1,5 +1,5 @@
 {
-	"name": "graphqlmiddleware",
+	"name": "graphql-middleware-handler",
 	"version": "1.0.0",
 	"description": "Handle GraphQL Middlewares with simplicity.",
 	"main": "./GraphQLMiddleware.js",
