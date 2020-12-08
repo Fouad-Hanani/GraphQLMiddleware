@@ -17,5 +17,9 @@
 		"email": "info.fouadhanani@gmail.com"
 	},
 	"license": "MIT",
-	"repository": {}
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Fouad-Hanani/GraphQLMiddleware.git"
+	},
+	"homepage": "https://github.com/Fouad-Hanani/GraphQLMiddleware#readme"
 }
